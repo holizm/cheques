@@ -1,0 +1,41 @@
+chequeDirection options
+    received
+    issued
+chequeActionType options
+    register
+    endorse
+    deposit
+    clear
+    return
+    cancel
+    replace
+cheque
+    number
+    chequeDirection
+    drawer
+    payee
+    bank
+    bankAccount optional
+    issueDate
+    dueDate
+    amount realNumber
+    currency
+    order optional
+    payment optional
+    state
+    description optional
+    unique bank number
+chequeAction
+    cheque
+    chequeActionType
+    actionDate
+    actor optional
+    destination optional
+    amount realNumber optional
+    description optional
+chequeReplacement
+    originalCheque
+    replacementCheque
+    replacementDate
+    reason
+    unique originalCheque
