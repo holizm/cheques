@@ -11,6 +11,7 @@ export default [
             },
         ],
         icon: 'payments',
+        path: '/cheques',
         title: 'chequesCheques',
     },
 ]
