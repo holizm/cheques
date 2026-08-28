@@ -1,0 +1,4 @@
+[
+    { $match: { chequeDirection } },
+    { $count: 'count' },
+]

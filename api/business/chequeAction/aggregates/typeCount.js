@@ -1,0 +1,4 @@
+[
+    { $match: { chequeActionType } },
+    { $count: 'count' },
+]
