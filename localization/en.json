@@ -6,16 +6,12 @@
         "actionType": "Action type",
         "actor": "Actor",
         "amount": "Cheque amount",
-        "bank": "Bank",
         "cheque": "Cheque",
         "cheques": "Cheques",
-        "currency": "Currency",
-        "description": "Description",
         "direction": "Direction",
         "drawer": "Drawer",
         "issueDate": "Issue date",
         "number": "Cheque number",
-        "payee": "Payee",
-        "state": "State"
+        "payee": "Payee"
     }
 }

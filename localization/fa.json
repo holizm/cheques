@@ -6,16 +6,12 @@
         "actionType": "نوع اقدام",
         "actor": "اقدام‌کننده",
         "amount": "مبلغ چک",
-        "bank": "بانک",
         "cheque": "چک",
         "cheques": "چک‌ها",
-        "currency": "ارز",
-        "description": "توضیحات",
         "direction": "دریافتی یا پرداختی",
         "drawer": "صادرکننده",
         "issueDate": "تاریخ صدور",
         "number": "شماره چک",
-        "payee": "ذی‌نفع",
-        "state": "مرحله"
+        "payee": "ذی‌نفع"
     }
 }
