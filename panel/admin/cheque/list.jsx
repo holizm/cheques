@@ -11,7 +11,7 @@ const headers = <>
     <th>chequesDrawer</th>
     <th>chequesDueDate</th>
     <th>chequesAmount</th>
-    <th>chequesState</th>
+    <th>stateMachinesState</th>
 </>
 
 const row = item => <>
