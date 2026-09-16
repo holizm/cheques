@@ -1,12 +1,11 @@
 {
-    "common": {},
-    "api": {},
-    "panel": {
+    "common": {
+        "dueDate": "تاریخ سررسید",
         "actionDate": "تاریخ اقدام",
         "actions": "اقدامات چک",
         "actionType": "نوع اقدام",
         "actor": "اقدام‌کننده",
-        "amount": "مبلغ",
+        "amount": "مبلغ چک",
         "bank": "بانک",
         "cheque": "چک",
         "cheques": "چک‌ها",
@@ -14,14 +13,9 @@
         "description": "توضیحات",
         "direction": "دریافتی یا پرداختی",
         "drawer": "صادرکننده",
-        "dueDate": "تاریخ سررسید",
         "issueDate": "تاریخ صدور",
         "number": "شماره چک",
         "payee": "ذی‌نفع",
         "state": "مرحله"
-    },
-    "site": {
-        "amount": "مبلغ چک",
-        "dueDate": "تاریخ سررسید"
     }
 }
