@@ -1,0 +1,17 @@
+{
+    "common": {
+        "dueDate": "Дата погашення",
+        "actionDate": "Дата дії",
+        "actions": "Дії з чеком",
+        "actionType": "Тип дії",
+        "actor": "Виконавець",
+        "amount": "Сума чека",
+        "cheque": "Чек",
+        "cheques": "Чеки",
+        "direction": "Напрямок",
+        "drawer": "Чекодавець",
+        "issueDate": "Дата видачі",
+        "number": "Номер чека",
+        "payee": "Одержувач"
+    }
+}

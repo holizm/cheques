@@ -1,0 +1,17 @@
+{
+    "common": {
+        "dueDate": "만기일",
+        "actionDate": "처리일",
+        "actions": "수표 처리",
+        "actionType": "처리 유형",
+        "actor": "처리자",
+        "amount": "수표 금액",
+        "cheque": "수표",
+        "cheques": "수표",
+        "direction": "수취·지급 구분",
+        "drawer": "발행인",
+        "issueDate": "발행일",
+        "number": "수표 번호",
+        "payee": "수취인"
+    }
+}

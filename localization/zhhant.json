@@ -1,0 +1,17 @@
+{
+    "common": {
+        "dueDate": "到期日",
+        "actionDate": "操作日期",
+        "actions": "支票操作",
+        "actionType": "操作類型",
+        "actor": "操作人",
+        "amount": "支票金額",
+        "cheque": "支票",
+        "cheques": "支票",
+        "direction": "收支方向",
+        "drawer": "發票人",
+        "issueDate": "發票日期",
+        "number": "支票號碼",
+        "payee": "收款人"
+    }
+}

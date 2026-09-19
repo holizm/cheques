@@ -1,0 +1,17 @@
+{
+    "common": {
+        "dueDate": "Esedékesség dátuma",
+        "actionDate": "Művelet dátuma",
+        "actions": "Csekkműveletek",
+        "actionType": "Művelettípus",
+        "actor": "Végrehajtó",
+        "amount": "Csekk összege",
+        "cheque": "Csekk",
+        "cheques": "Csekkek",
+        "direction": "Irány",
+        "drawer": "Kiállító",
+        "issueDate": "Kiállítás dátuma",
+        "number": "Csekk száma",
+        "payee": "Kedvezményezett"
+    }
+}

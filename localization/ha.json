@@ -1,0 +1,17 @@
+{
+    "common": {
+        "dueDate": "Ranar biya",
+        "actionDate": "Ranar aiki",
+        "actions": "Ayyukan cek",
+        "actionType": "Nau’in aiki",
+        "actor": "Mai aiwatarwa",
+        "amount": "Adadin cek",
+        "cheque": "Cek",
+        "cheques": "Cekuna",
+        "direction": "Alƙibla",
+        "drawer": "Mai rubuta cek",
+        "issueDate": "Ranar bayarwa",
+        "number": "Lambar cek",
+        "payee": "Mai karɓar kuɗi"
+    }
+}

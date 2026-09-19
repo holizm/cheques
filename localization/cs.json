@@ -1,0 +1,17 @@
+{
+    "common": {
+        "dueDate": "Datum splatnosti",
+        "actionDate": "Datum akce",
+        "actions": "Akce šeku",
+        "actionType": "Typ akce",
+        "actor": "Provádějící",
+        "amount": "Částka šeku",
+        "cheque": "Šek",
+        "cheques": "Šeky",
+        "direction": "Směr",
+        "drawer": "Výstavce",
+        "issueDate": "Datum vystavení",
+        "number": "Číslo šeku",
+        "payee": "Příjemce"
+    }
+}

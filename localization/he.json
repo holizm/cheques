@@ -1,0 +1,17 @@
+{
+    "common": {
+        "dueDate": "תאריך פירעון",
+        "actionDate": "תאריך פעולה",
+        "actions": "פעולות המחאה",
+        "actionType": "סוג פעולה",
+        "actor": "מבצע הפעולה",
+        "amount": "סכום ההמחאה",
+        "cheque": "המחאה",
+        "cheques": "המחאות",
+        "direction": "כיוון",
+        "drawer": "מושך",
+        "issueDate": "תאריך הנפקה",
+        "number": "מספר המחאה",
+        "payee": "מוטב"
+    }
+}

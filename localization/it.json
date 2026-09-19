@@ -1,0 +1,17 @@
+{
+    "common": {
+        "dueDate": "Data di scadenza",
+        "actionDate": "Data dell’azione",
+        "actions": "Azioni sull’assegno",
+        "actionType": "Tipo di azione",
+        "actor": "Esecutore",
+        "amount": "Importo dell’assegno",
+        "cheque": "Assegno",
+        "cheques": "Assegni",
+        "direction": "Direzione",
+        "drawer": "Traente",
+        "issueDate": "Data di emissione",
+        "number": "Numero dell’assegno",
+        "payee": "Beneficiario"
+    }
+}

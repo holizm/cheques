@@ -1,0 +1,17 @@
+{
+    "common": {
+        "dueDate": "Förfallodatum",
+        "actionDate": "Åtgärdsdatum",
+        "actions": "Checkåtgärder",
+        "actionType": "Åtgärdstyp",
+        "actor": "Utförare",
+        "amount": "Checkbelopp",
+        "cheque": "Check",
+        "cheques": "Checkar",
+        "direction": "Riktning",
+        "drawer": "Utställare",
+        "issueDate": "Utfärdandedatum",
+        "number": "Checknummer",
+        "payee": "Betalningsmottagare"
+    }
+}

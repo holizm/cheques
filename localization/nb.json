@@ -1,0 +1,17 @@
+{
+    "common": {
+        "dueDate": "Forfallsdato",
+        "actionDate": "Handlingsdato",
+        "actions": "Sjekkhandlinger",
+        "actionType": "Handlingstype",
+        "actor": "Utfører",
+        "amount": "Sjekkbeløp",
+        "cheque": "Sjekk",
+        "cheques": "Sjekker",
+        "direction": "Retning",
+        "drawer": "Utsteder",
+        "issueDate": "Utstedelsesdato",
+        "number": "Sjekknummer",
+        "payee": "Betalingsmottaker"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "common": {
+        "dueDate": "Termin płatności",
+        "actionDate": "Data działania",
+        "actions": "Działania dotyczące czeku",
+        "actionType": "Typ działania",
+        "actor": "Wykonawca",
+        "amount": "Kwota czeku",
+        "cheque": "Czek",
+        "cheques": "Czeki",
+        "direction": "Kierunek",
+        "drawer": "Wystawca",
+        "issueDate": "Data wystawienia",
+        "number": "Numer czeku",
+        "payee": "Odbiorca"
+    }
+}
