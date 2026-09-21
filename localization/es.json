@@ -1,16 +1,12 @@
 {
     "common": {
-        "dueDate": "Fecha de vencimiento",
-        "actionDate": "Fecha de la acción",
         "actions": "Acciones del cheque",
-        "actionType": "Tipo de acción",
-        "actor": "Ejecutor",
         "amount": "Importe del cheque",
         "cheque": "Cheque",
         "cheques": "Cheques",
         "direction": "Dirección",
         "drawer": "Librador",
-        "issueDate": "Fecha de emisión",
+        "dueDate": "Fecha de vencimiento",
         "number": "Número de cheque",
         "payee": "Beneficiario"
     }

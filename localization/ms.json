@@ -1,16 +1,12 @@
 {
     "common": {
-        "dueDate": "Tarikh matang",
-        "actionDate": "Tarikh tindakan",
         "actions": "Tindakan cek",
-        "actionType": "Jenis tindakan",
-        "actor": "Pelaksana",
         "amount": "Amaun cek",
         "cheque": "Cek",
         "cheques": "Cek",
         "direction": "Arah",
         "drawer": "Pengeluar cek",
-        "issueDate": "Tarikh pengeluaran",
+        "dueDate": "Tarikh matang",
         "number": "Nombor cek",
         "payee": "Penerima bayaran"
     }

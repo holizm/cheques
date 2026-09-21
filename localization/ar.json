@@ -1,16 +1,12 @@
 {
     "common": {
-        "dueDate": "تاريخ الاستحقاق",
-        "actionDate": "تاريخ الإجراء",
         "actions": "إجراءات الشيك",
-        "actionType": "نوع الإجراء",
-        "actor": "منفذ الإجراء",
         "amount": "مبلغ الشيك",
         "cheque": "شيك",
         "cheques": "شيكات",
         "direction": "الاتجاه",
         "drawer": "الساحب",
-        "issueDate": "تاريخ الإصدار",
+        "dueDate": "تاريخ الاستحقاق",
         "number": "رقم الشيك",
         "payee": "المستفيد"
     }

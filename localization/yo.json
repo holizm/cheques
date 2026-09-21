@@ -1,16 +1,12 @@
 {
     "common": {
-        "dueDate": "Ọjọ́ ìsanwó",
-        "actionDate": "Ọjọ́ ìgbésẹ̀",
         "actions": "Àwọn ìgbésẹ̀ ṣéèkì",
-        "actionType": "Irú ìgbésẹ̀",
-        "actor": "Olùṣe",
         "amount": "Iye ṣéèkì",
         "cheque": "Ṣéèkì",
         "cheques": "Àwọn ṣéèkì",
         "direction": "Ìtọ́sọ́nà",
         "drawer": "Olùkọ ṣéèkì",
-        "issueDate": "Ọjọ́ fífúnni",
+        "dueDate": "Ọjọ́ ìsanwó",
         "number": "Nọ́mbà ṣéèkì",
         "payee": "Olùgbà owó"
     }

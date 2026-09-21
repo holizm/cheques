@@ -1,16 +1,12 @@
 {
     "common": {
-        "dueDate": "Takdang petsa",
-        "actionDate": "Petsa ng aksyon",
         "actions": "Mga aksyon sa tseke",
-        "actionType": "Uri ng aksyon",
-        "actor": "Gumaganap",
         "amount": "Halaga ng tseke",
         "cheque": "Tseke",
         "cheques": "Mga tseke",
         "direction": "Direksyon",
         "drawer": "Nag-isyu ng tseke",
-        "issueDate": "Petsa ng pag-isyu",
+        "dueDate": "Takdang petsa",
         "number": "Numero ng tseke",
         "payee": "Benepisyaryo"
     }

@@ -22,12 +22,12 @@ const inputs = <>
             'cancel',
             'replace',
         ]}
-        placeholder='chequesActionType'
+        placeholder='coreActionType'
         property='chequeActionType'
         required
     />
     <DateTime
-        placeholder='chequesActionDate'
+        placeholder='coreActionDate'
         property='actionDate'
         required
     />

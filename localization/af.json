@@ -1,16 +1,12 @@
 {
     "common": {
-        "dueDate": "Vervaldatum",
-        "actionDate": "Aksiedatum",
         "actions": "Tjekaksies",
-        "actionType": "Aksietipe",
-        "actor": "Uitvoerder",
         "amount": "Tjekbedrag",
         "cheque": "Tjek",
         "cheques": "Tjeks",
         "direction": "Rigting",
         "drawer": "Tjekuitreiker",
-        "issueDate": "Uitreikingsdatum",
+        "dueDate": "Vervaldatum",
         "number": "Tjeknommer",
         "payee": "Begunstigde"
     }

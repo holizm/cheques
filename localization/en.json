@@ -1,16 +1,12 @@
 {
     "common": {
-        "dueDate": "Due date",
-        "actionDate": "Action date",
         "actions": "Cheque actions",
-        "actionType": "Action type",
-        "actor": "Actor",
         "amount": "Cheque amount",
         "cheque": "Cheque",
         "cheques": "Cheques",
         "direction": "Direction",
         "drawer": "Drawer",
-        "issueDate": "Issue date",
+        "dueDate": "Due date",
         "number": "Cheque number",
         "payee": "Payee"
     }

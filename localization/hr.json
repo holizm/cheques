@@ -1,16 +1,12 @@
 {
     "common": {
-        "dueDate": "Datum dospijeća",
-        "actionDate": "Datum radnje",
         "actions": "Radnje čeka",
-        "actionType": "Vrsta radnje",
-        "actor": "Izvršitelj",
         "amount": "Iznos čeka",
         "cheque": "Ček",
         "cheques": "Čekovi",
         "direction": "Smjer",
         "drawer": "Izdavatelj",
-        "issueDate": "Datum izdavanja",
+        "dueDate": "Datum dospijeća",
         "number": "Broj čeka",
         "payee": "Primatelj"
     }

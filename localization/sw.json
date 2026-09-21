@@ -1,16 +1,12 @@
 {
     "common": {
-        "dueDate": "Tarehe ya malipo",
-        "actionDate": "Tarehe ya hatua",
         "actions": "Hatua za hundi",
-        "actionType": "Aina ya hatua",
-        "actor": "Mtekelezaji",
         "amount": "Kiasi cha hundi",
         "cheque": "Hundi",
         "cheques": "Hundi",
         "direction": "Mwelekeo",
         "drawer": "Mwandikaji wa hundi",
-        "issueDate": "Tarehe ya kutolewa",
+        "dueDate": "Tarehe ya malipo",
         "number": "Nambari ya hundi",
         "payee": "Mlipwaji"
     }

@@ -1,16 +1,12 @@
 {
     "common": {
-        "dueDate": "تاریخ سررسید",
-        "actionDate": "تاریخ اقدام",
         "actions": "اقدامات چک",
-        "actionType": "نوع اقدام",
-        "actor": "اقدام‌کننده",
         "amount": "مبلغ چک",
         "cheque": "چک",
         "cheques": "چک‌ها",
         "direction": "دریافتی یا پرداختی",
         "drawer": "صادرکننده",
-        "issueDate": "تاریخ صدور",
+        "dueDate": "تاریخ سررسید",
         "number": "شماره چک",
         "payee": "ذی‌نفع"
     }

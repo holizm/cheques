@@ -1,16 +1,12 @@
 {
     "common": {
-        "dueDate": "የመክፈያ ቀን",
-        "actionDate": "የእርምጃ ቀን",
         "actions": "የቼክ እርምጃዎች",
-        "actionType": "የእርምጃ ዓይነት",
-        "actor": "ፈጻሚ",
         "amount": "የቼክ መጠን",
         "cheque": "ቼክ",
         "cheques": "ቼኮች",
         "direction": "አቅጣጫ",
         "drawer": "ቼክ አውጪ",
-        "issueDate": "የወጣበት ቀን",
+        "dueDate": "የመክፈያ ቀን",
         "number": "የቼክ ቁጥር",
         "payee": "ተከፋይ"
     }

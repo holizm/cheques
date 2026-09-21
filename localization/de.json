@@ -1,16 +1,12 @@
 {
     "common": {
-        "dueDate": "Fälligkeitsdatum",
-        "actionDate": "Aktionsdatum",
         "actions": "Scheckaktionen",
-        "actionType": "Aktionstyp",
-        "actor": "Ausführender",
         "amount": "Scheckbetrag",
         "cheque": "Scheck",
         "cheques": "Schecks",
         "direction": "Richtung",
         "drawer": "Aussteller",
-        "issueDate": "Ausstellungsdatum",
+        "dueDate": "Fälligkeitsdatum",
         "number": "Schecknummer",
         "payee": "Zahlungsempfänger"
     }

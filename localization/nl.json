@@ -1,16 +1,12 @@
 {
     "common": {
-        "dueDate": "Vervaldatum",
-        "actionDate": "Actiedatum",
         "actions": "Chequehandelingen",
-        "actionType": "Actietype",
-        "actor": "Uitvoerder",
         "amount": "Chequebedrag",
         "cheque": "Cheque",
         "cheques": "Cheques",
         "direction": "Richting",
         "drawer": "Trekker",
-        "issueDate": "Uitgiftedatum",
+        "dueDate": "Vervaldatum",
         "number": "Chequenummer",
         "payee": "Begunstigde"
     }

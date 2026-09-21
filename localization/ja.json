@@ -1,16 +1,12 @@
 {
     "common": {
-        "dueDate": "期日",
-        "actionDate": "処理日",
         "actions": "小切手処理",
-        "actionType": "処理タイプ",
-        "actor": "処理担当者",
         "amount": "小切手金額",
         "cheque": "小切手",
         "cheques": "小切手",
         "direction": "受取・支払区分",
         "drawer": "振出人",
-        "issueDate": "振出日",
+        "dueDate": "期日",
         "number": "小切手番号",
         "payee": "受取人"
     }

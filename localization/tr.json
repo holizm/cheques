@@ -1,16 +1,12 @@
 {
     "common": {
-        "dueDate": "Vade tarihi",
-        "actionDate": "İşlem tarihi",
         "actions": "Çek işlemleri",
-        "actionType": "İşlem türü",
-        "actor": "İşlemi yapan",
         "amount": "Çek tutarı",
         "cheque": "Çek",
         "cheques": "Çekler",
         "direction": "Yön",
         "drawer": "Keşideci",
-        "issueDate": "Düzenleme tarihi",
+        "dueDate": "Vade tarihi",
         "number": "Çek numarası",
         "payee": "Lehtar"
     }

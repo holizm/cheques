@@ -1,16 +1,12 @@
 {
     "common": {
-        "dueDate": "Ngày đến hạn",
-        "actionDate": "Ngày xử lý",
         "actions": "Thao tác séc",
-        "actionType": "Loại thao tác",
-        "actor": "Người thực hiện",
         "amount": "Số tiền trên séc",
         "cheque": "Séc",
         "cheques": "Các séc",
         "direction": "Chiều giao dịch",
         "drawer": "Người ký phát",
-        "issueDate": "Ngày phát hành",
+        "dueDate": "Ngày đến hạn",
         "number": "Số séc",
         "payee": "Người thụ hưởng"
     }

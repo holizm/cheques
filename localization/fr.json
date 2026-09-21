@@ -1,16 +1,12 @@
 {
     "common": {
-        "dueDate": "Date d’échéance",
-        "actionDate": "Date de l’action",
         "actions": "Actions sur le chèque",
-        "actionType": "Type d’action",
-        "actor": "Intervenant",
         "amount": "Montant du chèque",
         "cheque": "Chèque",
         "cheques": "Chèques",
         "direction": "Sens",
         "drawer": "Tireur",
-        "issueDate": "Date d’émission",
+        "dueDate": "Date d’échéance",
         "number": "Numéro du chèque",
         "payee": "Bénéficiaire"
     }

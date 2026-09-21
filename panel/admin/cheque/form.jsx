@@ -38,7 +38,7 @@ const inputs = <>
         required
     />
     <DateTime
-        placeholder='chequesIssueDate'
+        placeholder='coreIssueDate'
         property='issueDate'
         required
     />

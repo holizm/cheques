@@ -1,16 +1,12 @@
 {
     "common": {
-        "dueDate": "Срок платежа",
-        "actionDate": "Дата действия",
         "actions": "Действия с чеком",
-        "actionType": "Тип действия",
-        "actor": "Исполнитель",
         "amount": "Сумма чека",
         "cheque": "Чек",
         "cheques": "Чеки",
         "direction": "Направление",
         "drawer": "Чекодатель",
-        "issueDate": "Дата выдачи",
+        "dueDate": "Срок платежа",
         "number": "Номер чека",
         "payee": "Получатель"
     }

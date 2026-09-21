@@ -1,16 +1,12 @@
 {
     "common": {
-        "dueDate": "Forfaldsdato",
-        "actionDate": "Handlingsdato",
         "actions": "Checkhandlinger",
-        "actionType": "Handlingstype",
-        "actor": "Udførende",
         "amount": "Checkbeløb",
         "cheque": "Check",
         "cheques": "Checks",
         "direction": "Retning",
         "drawer": "Udsteder",
-        "issueDate": "Udstedelsesdato",
+        "dueDate": "Forfaldsdato",
         "number": "Checknummer",
         "payee": "Betalingsmodtager"
     }

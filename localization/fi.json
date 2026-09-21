@@ -1,16 +1,12 @@
 {
     "common": {
-        "dueDate": "Eräpäivä",
-        "actionDate": "Toimenpiteen päivämäärä",
         "actions": "Sekin toimenpiteet",
-        "actionType": "Toimenpidetyyppi",
-        "actor": "Toimija",
         "amount": "Sekin määrä",
         "cheque": "Sekki",
         "cheques": "Sekit",
         "direction": "Suunta",
         "drawer": "Asettaja",
-        "issueDate": "Myöntämispäivä",
+        "dueDate": "Eräpäivä",
         "number": "Sekin numero",
         "payee": "Maksunsaaja"
     }

@@ -1,16 +1,12 @@
 {
     "common": {
-        "dueDate": "Tanggal jatuh tempo",
-        "actionDate": "Tanggal tindakan",
         "actions": "Tindakan cek",
-        "actionType": "Jenis tindakan",
-        "actor": "Pelaksana",
         "amount": "Jumlah cek",
         "cheque": "Cek",
         "cheques": "Cek",
         "direction": "Arah",
         "drawer": "Penarik",
-        "issueDate": "Tanggal penerbitan",
+        "dueDate": "Tanggal jatuh tempo",
         "number": "Nomor cek",
         "payee": "Penerima pembayaran"
     }

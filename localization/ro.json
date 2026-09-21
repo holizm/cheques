@@ -1,16 +1,12 @@
 {
     "common": {
-        "dueDate": "Data scadenței",
-        "actionDate": "Data acțiunii",
         "actions": "Acțiuni asupra cecului",
-        "actionType": "Tip de acțiune",
-        "actor": "Executant",
         "amount": "Valoarea cecului",
         "cheque": "Cec",
         "cheques": "Cecuri",
         "direction": "Direcție",
         "drawer": "Trăgător",
-        "issueDate": "Data emiterii",
+        "dueDate": "Data scadenței",
         "number": "Numărul cecului",
         "payee": "Beneficiar"
     }

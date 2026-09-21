@@ -6,9 +6,9 @@ import Form from './form'
 
 const headers = <>
     <th start>chequesCheque</th>
-    <th>chequesActionType</th>
-    <th>chequesActionDate</th>
-    <th>chequesActor</th>
+    <th>coreActionType</th>
+    <th>coreActionDate</th>
+    <th>coreActionActor</th>
 </>
 
 const row = item => <>
