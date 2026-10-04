@@ -1,6 +1,6 @@
 export default <>
-    <th start>chequesCheque</th>
-    <th>coreActionType</th>
-    <th>coreActionDate</th>
-    <th>coreActionActor</th>
+    <th start>cheque</th>
+    <th>actionType</th>
+    <th>actionDate</th>
+    <th>actionActor</th>
 </>

@@ -25,6 +25,8 @@ cheque
     state
     description optional
     unique bank number
+    uses
+        stateMachines
 chequeAction
     cheque
     chequeActionType

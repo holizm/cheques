@@ -8,7 +8,7 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='chequesCheque'
+        placeholder='cheque'
         property='cheque'
         required
     />
@@ -22,17 +22,17 @@ const inputs = <>
             'cancel',
             'replace',
         ]}
-        placeholder='coreActionType'
+        placeholder='actionType'
         property='chequeActionType'
         required
     />
     <DateTime
-        placeholder='coreActionDate'
+        placeholder='actionDate'
         property='actionDate'
         required
     />
     <LongText
-        placeholder='chequesDescription'
+        placeholder='description'
         property='description'
     />
 </>

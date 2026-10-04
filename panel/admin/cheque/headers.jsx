@@ -1,8 +1,8 @@
 export default <>
-    <th start>chequesNumber</th>
-    <th>chequesDirection</th>
-    <th>chequesDrawer</th>
-    <th>chequesDueDate</th>
-    <th>chequesAmount</th>
-    <th>stateMachinesState</th>
+    <th start>number</th>
+    <th>direction</th>
+    <th>drawer</th>
+    <th>dueDate</th>
+    <th>amount</th>
+    <th>state</th>
 </>

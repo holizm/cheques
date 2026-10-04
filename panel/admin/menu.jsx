@@ -3,15 +3,15 @@ export default [
         children: [
             {
                 path: '/cheques/cheque/list',
-                title: 'chequesCheques',
+                title: 'cheques',
             },
             {
                 path: '/cheques/chequeAction/list',
-                title: 'chequesActions',
+                title: 'actions',
             },
         ],
         icon: 'payments',
         path: '/cheques',
-        title: 'chequesCheques',
+        title: 'cheques',
     },
 ]

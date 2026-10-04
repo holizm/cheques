@@ -9,7 +9,7 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='chequesNumber'
+        placeholder='number'
         property='number'
         required
     />
@@ -18,47 +18,47 @@ const inputs = <>
             'received',
             'issued',
         ]}
-        placeholder='chequesDirection'
+        placeholder='direction'
         property='chequeDirection'
         required
     />
     <Text
-        placeholder='chequesDrawer'
+        placeholder='drawer'
         property='drawer'
         required
     />
     <Text
-        placeholder='chequesPayee'
+        placeholder='payee'
         property='payee'
         required
     />
     <Text
-        placeholder='chequesBank'
+        placeholder='bank'
         property='bank'
         required
     />
     <DateTime
-        placeholder='coreIssueDate'
+        placeholder='issueDate'
         property='issueDate'
         required
     />
     <DateTime
-        placeholder='chequesDueDate'
+        placeholder='dueDate'
         property='dueDate'
         required
     />
     <Numeric
-        placeholder='chequesAmount'
+        placeholder='amount'
         property='amount'
         required
     />
     <Text
-        placeholder='chequesCurrency'
+        placeholder='currency'
         property='currency'
         required
     />
     <LongText
-        placeholder='chequesDescription'
+        placeholder='description'
         property='description'
     />
 </>
