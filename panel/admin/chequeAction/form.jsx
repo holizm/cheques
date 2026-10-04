@@ -8,11 +8,11 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='cheque'
-        property='cheque'
+        cheque
         required
     />
     <Select
+        chequeActionType
         options={[
             'register',
             'endorse',
@@ -23,18 +23,13 @@ const inputs = <>
             'replace',
         ]}
         placeholder='actionType'
-        property='chequeActionType'
         required
     />
     <DateTime
-        placeholder='actionDate'
-        property='actionDate'
+        actionDate
         required
     />
-    <LongText
-        placeholder='description'
-        property='description'
-    />
+    <LongText description />
 </>
 
 export default <DialogForm inputs={inputs} />

@@ -9,58 +9,47 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='number'
-        property='number'
+        number
         required
     />
     <Select
+        chequeDirection
         options={[
             'received',
             'issued',
         ]}
         placeholder='direction'
-        property='chequeDirection'
         required
     />
     <Text
-        placeholder='drawer'
-        property='drawer'
+        drawer
         required
     />
     <Text
-        placeholder='payee'
-        property='payee'
+        payee
         required
     />
     <Text
-        placeholder='bank'
-        property='bank'
+        bank
         required
     />
     <DateTime
-        placeholder='issueDate'
-        property='issueDate'
+        issueDate
         required
     />
     <DateTime
-        placeholder='dueDate'
-        property='dueDate'
+        dueDate
         required
     />
     <Numeric
-        placeholder='amount'
-        property='amount'
+        amount
         required
     />
     <Text
-        placeholder='currency'
-        property='currency'
+        currency
         required
     />
-    <LongText
-        placeholder='description'
-        property='description'
-    />
+    <LongText description />
 </>
 
 export default <DialogForm inputs={inputs} />
