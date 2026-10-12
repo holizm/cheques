@@ -6,7 +6,6 @@
         "cheques": "Cecuri",
         "direction": "Direcție",
         "drawer": "Trăgător",
-        "dueDate": "Data scadenței",
         "number": "Numărul cecului",
         "payee": "Beneficiar"
     }

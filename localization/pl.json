@@ -6,7 +6,6 @@
         "cheques": "Czeki",
         "direction": "Kierunek",
         "drawer": "Wystawca",
-        "dueDate": "Termin płatności",
         "number": "Numer czeku",
         "payee": "Odbiorca"
     }

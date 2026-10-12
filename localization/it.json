@@ -6,7 +6,6 @@
         "cheques": "Assegni",
         "direction": "Direzione",
         "drawer": "Traente",
-        "dueDate": "Data di scadenza",
         "number": "Numero dell’assegno",
         "payee": "Beneficiario"
     }

@@ -6,7 +6,6 @@
         "cheques": "Cheques",
         "direction": "Richting",
         "drawer": "Trekker",
-        "dueDate": "Vervaldatum",
         "number": "Chequenummer",
         "payee": "Begunstigde"
     }

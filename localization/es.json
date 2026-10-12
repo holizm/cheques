@@ -6,7 +6,6 @@
         "cheques": "Cheques",
         "direction": "Dirección",
         "drawer": "Librador",
-        "dueDate": "Fecha de vencimiento",
         "number": "Número de cheque",
         "payee": "Beneficiario"
     }

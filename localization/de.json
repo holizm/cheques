@@ -6,7 +6,6 @@
         "cheques": "Schecks",
         "direction": "Richtung",
         "drawer": "Aussteller",
-        "dueDate": "Fälligkeitsdatum",
         "number": "Schecknummer",
         "payee": "Zahlungsempfänger"
     }

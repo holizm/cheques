@@ -6,7 +6,6 @@
         "cheques": "Cek",
         "direction": "Arah",
         "drawer": "Penarik",
-        "dueDate": "Tanggal jatuh tempo",
         "number": "Nomor cek",
         "payee": "Penerima pembayaran"
     }

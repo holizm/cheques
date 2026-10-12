@@ -6,7 +6,6 @@
         "cheques": "Sjekker",
         "direction": "Retning",
         "drawer": "Utsteder",
-        "dueDate": "Forfallsdato",
         "number": "Sjekknummer",
         "payee": "Betalingsmottaker"
     }

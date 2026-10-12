@@ -6,7 +6,6 @@
         "cheques": "Checkar",
         "direction": "Riktning",
         "drawer": "Utställare",
-        "dueDate": "Förfallodatum",
         "number": "Checknummer",
         "payee": "Betalningsmottagare"
     }

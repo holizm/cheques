@@ -6,7 +6,6 @@
         "cheques": "Checks",
         "direction": "Retning",
         "drawer": "Udsteder",
-        "dueDate": "Forfaldsdato",
         "number": "Checknummer",
         "payee": "Betalingsmodtager"
     }

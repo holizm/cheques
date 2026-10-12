@@ -6,7 +6,6 @@
         "cheques": "支票",
         "direction": "收支方向",
         "drawer": "出票人",
-        "dueDate": "到期日",
         "number": "支票号码",
         "payee": "收款人"
     }

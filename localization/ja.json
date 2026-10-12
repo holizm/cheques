@@ -6,7 +6,6 @@
         "cheques": "小切手",
         "direction": "受取・支払区分",
         "drawer": "振出人",
-        "dueDate": "期日",
         "number": "小切手番号",
         "payee": "受取人"
     }

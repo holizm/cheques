@@ -6,7 +6,6 @@
         "cheques": "Čekovi",
         "direction": "Smjer",
         "drawer": "Izdavatelj",
-        "dueDate": "Datum dospijeća",
         "number": "Broj čeka",
         "payee": "Primatelj"
     }

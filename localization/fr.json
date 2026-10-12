@@ -6,7 +6,6 @@
         "cheques": "Chèques",
         "direction": "Sens",
         "drawer": "Tireur",
-        "dueDate": "Date d’échéance",
         "number": "Numéro du chèque",
         "payee": "Bénéficiaire"
     }

@@ -6,7 +6,6 @@
         "cheques": "Csekkek",
         "direction": "Irány",
         "drawer": "Kiállító",
-        "dueDate": "Esedékesség dátuma",
         "number": "Csekk száma",
         "payee": "Kedvezményezett"
     }

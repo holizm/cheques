@@ -6,7 +6,6 @@
         "cheques": "Sekit",
         "direction": "Suunta",
         "drawer": "Asettaja",
-        "dueDate": "Eräpäivä",
         "number": "Sekin numero",
         "payee": "Maksunsaaja"
     }

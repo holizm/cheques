@@ -6,7 +6,6 @@
         "cheques": "Cheques",
         "direction": "Direction",
         "drawer": "Drawer",
-        "dueDate": "Due date",
         "number": "Cheque number",
         "payee": "Payee"
     }

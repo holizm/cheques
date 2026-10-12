@@ -6,7 +6,6 @@
         "cheques": "수표",
         "direction": "수취·지급 구분",
         "drawer": "발행인",
-        "dueDate": "만기일",
         "number": "수표 번호",
         "payee": "수취인"
     }
